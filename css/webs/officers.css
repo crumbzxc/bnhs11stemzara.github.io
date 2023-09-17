@@ -44,3 +44,15 @@
 .webpage-officers-introduction-image {
   width: 100%;
 }
+
+@media (max-width: 768px) {
+  .webpage-officers-container {
+    display: flex;
+    width: 90%;
+    margin: auto;
+    margin-bottom: 1%;
+    background-color: rgb(25, 27, 51);
+    border-radius: 1vh;
+    padding: 1%;
+  }
+}

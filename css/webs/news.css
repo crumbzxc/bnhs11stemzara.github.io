@@ -11,7 +11,7 @@
 }
 
 .webpage-news-container {
-  width: 90%;
+  width: 50%;
   margin: auto;
   margin-bottom: 1%;
   background-color: rgb(25, 27, 51);
@@ -52,4 +52,15 @@
 
 .webpage-news-gallery img {
   width: 24.5%;
+}
+
+@media (max-width: 768px) {
+  .webpage-news-container {
+    width: 90%;
+    margin: auto;
+    margin-bottom: 1%;
+    background-color: rgb(25, 27, 51);
+    border-radius: 1vh;
+    padding: 1%;
+  }
 }
