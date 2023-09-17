@@ -46,3 +46,15 @@
   width: 80px;
   border-radius: 50%;
 }
+
+@media (max-width: 768px) {
+  .webpage-developers-information img {
+    border-radius: 50%;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1%;
+    width: 15%;
+    border: 3px rgb(25, 27, 51) solid;
+  }
+}

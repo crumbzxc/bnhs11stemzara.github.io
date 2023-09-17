@@ -22,3 +22,14 @@
   opacity: 1;
   transition: opacity ease-in-out 250ms;
 }
+
+@media (max-width: 768px) {
+  .webpage-adviser-image {
+    position: absolute;
+    right: 10vh;
+    top: 5vh;
+    transition: opacity ease-in-out 250ms;
+    max-width: 25vh;
+    opacity: 0;
+  }
+}
