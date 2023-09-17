@@ -1,0 +1,55 @@
+.webpage-news {
+  display: none;
+}
+
+.webpage-news-title {
+  font-size: 35px;
+  color: white;
+  margin: 5px;
+  margin-bottom: 1%;
+  text-align: center;
+}
+
+.webpage-news-container {
+  width: 50%;
+  margin: auto;
+  margin-bottom: 1%;
+  background-color: rgb(25, 27, 51);
+  border-radius: 1vh;
+  padding: 1%;
+}
+
+.webpage-news-contents-title {
+  font-family: Poppins, sans-serif;
+  font-size: 23px;
+  color: white;
+}
+
+.webpage-news-contents {
+  font-family: Poppins, sans-serif;
+  font-size: 18px;
+  color: rgb(197, 197, 197);
+}
+
+.webpage-news-contents-photo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 1%;
+  max-width: 50%;
+  margin-top: 1%;
+}
+
+.webpage-news-date {
+  font-size: 15px;
+}
+
+.webpage-news-gallery {
+  float: left;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+
+.webpage-news-gallery img {
+  width: 24.5%;
+}

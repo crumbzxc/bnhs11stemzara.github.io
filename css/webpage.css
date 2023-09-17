@@ -1,0 +1,42 @@
+body {
+  font-family: Oswald, sans-serif;
+  background-color: rgb(17, 19, 36);
+}
+
+.webpage-background {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0.2;
+}
+
+.webpage-top-column {
+  margin: 0%;
+  padding: 0.5%;
+  background-color: rgb(25, 27, 51);
+  border-top-left-radius: 1vh;
+  border-top-right-radius: 1vh;
+}
+
+.webpage-header {
+  color: white;
+  font-size: 25px;
+  padding: 6px 10px;
+}
+
+.webpage-header:not(.disabled):hover {
+  background-color: rgb(35, 37, 59);
+  border-bottom: 2px white solid;
+}
+
+.location-icon {
+  color: rgb(233, 154, 81);
+}
+
+.webpage-container {
+  min-height: 60%;
+  min-height: calc(100% - 180px);
+  margin: 5px auto 0;
+  position: relative;
+  padding-bottom: 40px;
+}

@@ -1,0 +1,48 @@
+
+.webpage-developers {
+  display: none;
+  align-items: center;
+  justify-content: center;
+}
+
+.webpage-developers-title {
+  font-size: 35px;
+  color: white;
+  margin: 5px;
+  margin-bottom: 1%;
+  text-align: center;
+}
+
+.webpage-developers-information {
+  margin-bottom: 2%;
+}
+
+.webpage-developers-information img {
+  border-radius: 50%;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 1%;
+  width: 5%;
+  border: 3px rgb(25, 27, 51) solid;
+}
+
+.webpage-developers-information-title {
+  font-family: Poppins, sans-serif;
+  font-size: 23px;
+  color: white;
+  text-align: center;
+}
+
+.webpage-developers-information-details {
+  font-family: Poppins, sans-serif;
+  font-size: 18px;
+  color: rgb(190, 190, 190);
+  text-align: center;
+}
+
+.webpage-officers-position-image {
+  display: flex;
+  width: 80px;
+  border-radius: 50%;
+}

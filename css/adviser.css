@@ -1,0 +1,24 @@
+
+.webpage-adviser-name {
+  color: lightblue;
+  border-bottom: lightblue 1px solid;
+}
+
+.webpage-adviser-name:hover {
+  color: rgb(125, 160, 172);
+  border-bottom: rgb(125, 160, 172) 1px solid;
+}
+
+.webpage-adviser-image {
+  position: absolute;
+  right: -10vh;
+  top: 5vh;
+  transition: opacity ease-in-out 250ms;
+  max-width: 25vh;
+  opacity: 0;
+}
+
+.webpage-adviser-name:hover .webpage-adviser-image {
+  opacity: 1;
+  transition: opacity ease-in-out 250ms;
+}

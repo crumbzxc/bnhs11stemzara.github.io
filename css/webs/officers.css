@@ -1,0 +1,46 @@
+.webpage-officers {
+  display: none;
+}
+
+.webpage-officers-title {
+  font-size: 35px;
+  color: white;
+  margin: 5px;
+  margin-bottom: 1%;
+  text-align: center;
+}
+
+.webpage-officers-title-description {
+  font-family: Poppins, sans-serif;
+  font-size: 25px;
+  color: rgb(201, 201, 201);
+  margin: 5px;
+  margin-bottom: 1%;
+  text-align: center;
+}
+
+.webpage-officers-container {
+  display: flex;
+  width: 50%;
+  margin: auto;
+  margin-bottom: 1%;
+  background-color: rgb(25, 27, 51);
+  border-radius: 1vh;
+  padding: 1%;
+}
+
+.webpage-officers-position {
+  font-family: Poppins, sans-serif;
+  font-size: 25px;
+  color: white;
+}
+
+.webpage-officers-position-holder {
+  font-family: Poppins, sans-serif;
+  font-size: 23px;
+  color: rgb(218, 218, 218);
+}
+
+.webpage-officers-introduction-image {
+  width: 100%;
+}
