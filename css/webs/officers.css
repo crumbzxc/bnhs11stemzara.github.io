@@ -29,6 +29,10 @@
   padding: 1%;
 }
 
+.webpage-officers-container:hover {
+  background-color: rgb(20, 22, 41);
+}
+
 .webpage-officers-position {
   font-family: Poppins, sans-serif;
   font-size: 25px;
@@ -37,7 +41,7 @@
 
 .webpage-officers-position-holder {
   font-family: Poppins, sans-serif;
-  font-size: 23px;
+  font-size: 20px;
   color: rgb(218, 218, 218);
 }
 
